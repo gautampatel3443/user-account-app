@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gautampatel3443/user-account-app/static/css/main.03f583df.css",
+    "main.js": "/gautampatel3443/user-account-app/static/js/main.15f2fc0f.js",
+    "index.html": "/gautampatel3443/user-account-app/index.html",
+    "main.03f583df.css.map": "/gautampatel3443/user-account-app/static/css/main.03f583df.css.map",
+    "main.15f2fc0f.js.map": "/gautampatel3443/user-account-app/static/js/main.15f2fc0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03f583df.css",
+    "static/js/main.15f2fc0f.js"
+  ]
+}
